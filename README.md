@@ -1,5 +1,7 @@
 # MailParser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pihvi/mailparser.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://api.travis-ci.org/andris9/mailparser.svg)](http://travis-ci.org/andris9/mailparser) [![NPM version](https://badge.fury.io/js/mailparser.svg)](http://badge.fury.io/js/mailparser)
 
 Advanced email parser for Node.js. Everything is handled as a stream which should make it able to parse even very large messages (100MB+) with relatively low overhead.

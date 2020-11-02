@@ -11,7 +11,7 @@
   "dependencies": {
     "addressparser": "1.0.1",
     "he": "1.1.1",
-    "html-to-text": "3.1.0",
+    "html-to-text": "6.0.0",
     "iconv-lite": "0.4.15",
     "libmime": "3.1.0",
     "mailsplit": "3.1.2",
